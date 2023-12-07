@@ -22,12 +22,12 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 ## **My Work**👨🏻‍💻
 
 - Developing cross-platform mobile applications using React-Native & Redux
--  Proficient in specialising in UI design and development, with experBse spanning all phases of the development cycle for dynamic projects.
--  Extensive experBse in mobile applicaBon development, with a track record of delivering excep- Bonal products and resolving client and product-related challenges.
+-  Proficient in specialising in UI design and development, with expertise spanning all phases of the development cycle for dynamic projects.
+-  Extensive expertise in mobile application development, with a track record of delivering exceptional products and resolving client and product-related challenges.
 -  Collaborated closely with design teams to maintain brand consistency and deliver engaging user experiences.
--  A quick learner with the ability to adapt to a fast-changing technological environment and effi- ciently perform assigned tasks.
--  Proficient in troubleshooBng replicaBon issues and resolving performance challenges.
--  Conducted comprehensive tesBng to idenBfy and recBfy bugs and technical issues before and a.er deployment.
+-  A quick learner with the ability to adapt to a fast-changing technological environment and efficiently perform assigned tasks.
+-  Proficient in troubleshooting replication issues and resolving performance challenges.
+-  Conducted comprehensive testing to identify and rectify bugs and technical issues before and after deployment.
   
 
 </br></br>
