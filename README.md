@@ -32,8 +32,7 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 </br></br>
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=dineshnadimpalli&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
-
+ 
 ## **My Tech** 👨🏻‍🔧
 
 <img width="36px" alt="javascript" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/javascript.svg">&nbsp;
